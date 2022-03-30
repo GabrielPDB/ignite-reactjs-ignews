@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import { useState } from 'react'
 import styles from './home.module.scss'
 
 export default function Home() {
